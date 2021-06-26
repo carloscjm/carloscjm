@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @carloscjm
+- 👋 Hi, I’m @carloscjm, I'm a PHP/Node.js dev
 - 👀 I’m interested in learn php, javascript and Node.js
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on Node.js project
