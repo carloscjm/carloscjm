@@ -35,14 +35,6 @@
 
 ---
 
-## 💡 Valores que me movem
-- 📚 Aprendizado contínuo
-- 🤝 Trabalho em equipe
-- 🚀 Entregas com propósito
-- 🧘‍♂️ Simplicidade e clareza no código
-
----
-
 ## 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
